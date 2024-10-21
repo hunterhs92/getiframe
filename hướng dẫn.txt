@@ -1,5 +1,5 @@
 1. Xem hướng dẫn cài tool python tại: https://t.me/thic_autu/8
-2. Tool chỉ chạy trên bản python 3.11.5, nếu máy đã cài python bản khác vui lòng gỡ ra và  cài python 3.11.5 theo link: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+2. Tool chỉ chạy trên bản python 3.11.5 những máy đã cài python không cần cài lại, nếu máy đã cài python bản khác vui lòng gỡ ra và  cài python 3.11.5 theo link: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
 3. Nên sử dung git clone để tải code về giống video hướng dẫn để không bị lỗi khi chạy file thực thi run.bat (nếu download file có thể bị chạy file run mà nó không hiện lên)
 4. Tạo file data.txt để chứa dach sách ID profile GPM cần get iframe
 5. Tạo file name.txt để chứa danh sách tên profile GPM. Lưu ý ID và tên profile cần copy và paste theo đúng thứ tự.
