@@ -1,10 +1,17 @@
 1. Xem hướng dẫn cài tool python tại: https://t.me/thic_autu/8
+
 2. Tool chỉ chạy trên bản python 3.11.5 những máy đã cài python không cần cài lại, nếu máy đã cài python bản khác vui lòng gỡ ra và  cài python 3.11.5 theo link: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+
 3. Nên sử dung git clone để tải code về giống video hướng dẫn để không bị lỗi khi chạy file thực thi run.bat (nếu download file có thể bị chạy file run mà nó không hiện lên)
+
 4. Tạo file data.txt để chứa dach sách ID profile GPM cần get iframe
-5. Tạo file name.txt để chứa danh sách tên profile GPM. Lưu ý ID và tên profile cần copy và paste theo đúng thứ tự.
+
 6. Chạy file run.bat và chờ 3-10 phút tùy tốc độ mạng. khi cài đặt xong sẽ hiện key, vui lòng copy key và liên hệ tele: @nora24320 để active
-7. Tool sẽ trả về 2 file kết quả tương ứng với iframe đầy đủ (https://....) và query (user=......)
-8. Những profile gặp lỗi sẽ lưu trong file profile_error.....
-9. Cấu hình cài đặt tên bot, số luồng và thời gian tự động chạy lặp lại trong file .env
+
+7. Tool sẽ trả về file excel kết quả tương ứng với Tên profile, iframe đầy đủ (https://....), query (user=......) và proxy
+
+8. Những profile gặp lỗi sẽ lưu trong file profile_error..... ae chỉ việc copy vào file data và chạy lại là được
+
+9. Cấu hình cài đặt tên bot, link ref, link channel, số luồng và thời gian tự động chạy lặp lại trong file .env (ae có thể tùy chọn truy cập game bằng link ref trực tiếp hoặc thông qua link channel)
+
 10. Mỗi khi chạy lặp lại kết quả sẽ được lưu ra 1 file riêng với mốc thời gian tương ứng (profile lỗi cũng vậy)
